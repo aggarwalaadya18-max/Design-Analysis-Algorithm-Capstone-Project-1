@@ -1,0 +1,7 @@
+parcel_id,destination,weight_kg,value,deadline_days
+P1,A,4,70,2
+P2,B,3,50,1
+P3,C,5,90,3
+P4,D,2,40,2
+P5,E,6,100,4
+P6,F,1,25,1
